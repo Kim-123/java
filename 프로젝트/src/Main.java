@@ -79,7 +79,7 @@ public class Main {
 		id.setBounds(153, 601, 116, 24);
 		panel.add(id);
 		id.setColumns(10);
-		
+		//주석수정1
 		JLabel lblNewLabel_2_1 = new JLabel("\uBE44\uBC00\uBC88\uD638 :");
 		lblNewLabel_2_1.setHorizontalAlignment(SwingConstants.LEFT);
 		lblNewLabel_2_1.setForeground(Color.WHITE);
